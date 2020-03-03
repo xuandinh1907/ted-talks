@@ -19,3 +19,6 @@ Download dataset [here](https://www.kaggle.com/rounakbanik/ted-talks)
 - What kind of topics attract the maximum discussion and debate (in the form of comments) ?
 - Which months are most popular among TED and TEDx chapters ?
 - Which themes are most popular amongst TEDsters ?
+
+# Data google studio
+See slides [here](https://datastudio.google.com/open/1P6VsQF97dHkYeIccxe7WIsqRT4dMseGo)
